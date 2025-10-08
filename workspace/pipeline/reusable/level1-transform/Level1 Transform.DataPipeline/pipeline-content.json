@@ -879,7 +879,7 @@
       },
       "WatermarkColName": {
         "type": "string",
-        "defaultValue": "LastEditedWhen"
+        "defaultValue": "LastEditedWhenever"
       },
       "SilverObjectID": {
         "type": "string",
